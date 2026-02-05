@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on: Full-stack development and AI/ML Engineering with a strict focus on system integrity. I specialize in building resilient architectures, from AgriCyber security frameworks to high-accuracy NLP detection models.
 
-👯 I’m looking to collaborate on: Projects at the intersection of AI and Cybersecurity. I am particularly interested in model explainability (SHAP/LIME) and developing secure, ethical AI.
+👯 I’m looking to collaborate on: Projects at the intersection of AI and Cybersecurity. I am particularly interested in model explainability and developing secure, ethical AI.
 
 🌱 I’m currently learning: The complex trade-offs between Privacy, Accuracy, and Fairness in intelligent systems, and how to mitigate bias in "black-box" models.
 
