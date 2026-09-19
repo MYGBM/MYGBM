@@ -1,10 +1,13 @@
 # 💫 About Me:
-🔭 I’m currently working on: Full-stack development and AI/ML Engineering with a strict focus on system integrity. I specialize in building resilient architectures, from AgriCyber security frameworks to high-accuracy NLP detection models.
+## Hi, I'm Mariam 👋
 
-👯 I’m looking to collaborate on: Projects in AI Safety and Security. I am particularly interested in model interpretability and developing secure, ethical AI.
+I'm a software engineer interested in understanding AI and contributing to its safety.
 
-⚡ Fun fact: I am a recent graduate!
+🔭 **Currently working on:** Full-stack development and AI research, building my experience in evaluating and understanding model behavior.
 
+🧠 **Interested in:** AI safety, mechanistic interpretability, generalization, and security.
+
+🤝 **Looking to collaborate on:** AI research and open-source projects that help us better understand and improve AI systems.
 
  
 ## 🌐 Socials:
