@@ -1,17 +1,11 @@
 # 💫 About Me:
 🔭 I’m currently working on: Full-stack development and AI/ML Engineering with a strict focus on system integrity. I specialize in building resilient architectures, from AgriCyber security frameworks to high-accuracy NLP detection models.
 
-👯 I’m looking to collaborate on: Projects at the intersection of AI and Cybersecurity. I am particularly interested in model explainability and developing secure, ethical AI.
-
-🌱 I’m currently learning: Cybersecurity and the complex trade-offs between Privacy, Accuracy, and Fairness in intelligent systems, and how to mitigate bias in "black-box" models.
-
-💬 Ask me about: AI transparency, XLM-RoBERTa, or how to implement Domain-Driven Design (DDD) in modern software engineering.
+👯 I’m looking to collaborate on: Projects in AI Safety and Security. I am particularly interested in model interpretability and developing secure, ethical AI.
 
 ⚡ Fun fact: I am a recent graduate!
 
- ## My latest Certficate!
- 
- <img width="2149" height="1488" alt="Image" src="https://github.com/user-attachments/assets/3ff60e86-9d95-48fe-b361-8ee8d894fd24" />
+
  
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariam-gustavo-6288b1220/) 
