@@ -1,11 +1,11 @@
 # 💫 About Me:
 ## Hi, I'm Mariam 👋
 
-I'm a software engineer interested in understanding AI and contributing to its safety.
+I'm a software engineer interested in understanding AI and contributing to its safety and security.
 
 🔭 **Currently working on:** Full-stack development and AI research, building my experience in evaluating and understanding model behavior.
 
-🧠 **Interested in:** AI safety, mechanistic interpretability, generalization, and security.
+🧠 **Interested in:** AI safety and security, mechanistic interpretability.
 
 🤝 **Looking to collaborate on:** AI research and open-source projects that help us better understand and improve AI systems.
 
