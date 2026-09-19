@@ -3,7 +3,7 @@
 
 I'm a software engineer interested in understanding AI and contributing to its safety and security.
 
-🔭 **Currently working on:** Full-stack development and AI research, building my experience in evaluating and understanding model behavior.
+🔭 **Currently working on:** Full-stack development and AI research, building my experience in AI Safety and Security.
 
 🧠 **Interested in:** AI safety and security, mechanistic interpretability.
 
